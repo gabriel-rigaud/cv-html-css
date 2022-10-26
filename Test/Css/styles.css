@@ -1,0 +1,68 @@
+body{
+    background: url("https://alchimistedelajoie.com/wp-content/uploads/2018/12/business-camera-coffee-1509428-reduit-1080x675.jpg")no-repeat;
+    background-size:150% auto;
+}
+
+h1{
+    color: red;
+    text-align: center;
+    font-size: 35px;
+    padding: 60px;
+}
+
+
+h2{
+    display: block;
+    padding: 1rem;
+    margin: 1.5rem 0;
+    background: #333;
+    font-size: 18px;
+    color: red;
+    text-align: center;
+}
+
+
+img{
+    border-radius: 60%;
+    object-position: -10px;
+    float: left;
+
+}
+
+p{
+    color: mediumturquoise;
+    font-size: 20px;
+}
+
+p.Pro{
+    text-align: right;
+    color: slateblue;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 23px;
+}
+
+
+nav.menu ul li {
+
+    display: inline-block;
+    padding:5px;
+    font-size: 17px;
+
+}
+
+nav.menu ul li.btn a{
+
+    color: azure;
+    background-color: black;
+    text-decoration: none;
+
+}
+
+nav.menu ul li.btn:hover a{
+
+    color: black;
+    background-color: azure;
+    transition: 0.3s all;
+
+}

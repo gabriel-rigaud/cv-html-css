@@ -1,0 +1,45 @@
+body{
+background: url("https://compass-ssl.xbox.com/assets/4e/ca/4eca93f1-916a-4427-9ac2-5bb0df2664c1.jpg?n=Rainbow-Six-Siege_GLP-Page-Hero-1084_1920x1080_02.jpg")no-repeat;
+background-size:100%;
+}
+
+h1{
+    color: cyan;
+}
+
+h2{
+    color: red;
+}
+
+div#Video div.Ytb{
+
+    display: inline-block;
+    width: 22%;
+    vertical-align: top;
+
+}
+
+
+nav.menu ul li {
+
+    display: inline-block;
+    padding:5px;
+    font-size: 17px;
+
+}
+
+nav.menu ul li.btn a{
+
+    color: azure;
+    background-color: black;
+    text-decoration: none;
+
+}
+
+nav.menu ul li.btn:hover a{
+
+    color: black;
+    background-color: azure;
+    transition: 0.3s all;
+
+}
